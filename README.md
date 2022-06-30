@@ -25,7 +25,7 @@ A website that offers a list of movie hits, depending on the genre you selected.
 
 ## Website
 
-https://truppeiner.github.io/Movies-R-Us/
+https://klong75.github.io/Movies-R-Us-KJ/
 
 ## Contribution
 
